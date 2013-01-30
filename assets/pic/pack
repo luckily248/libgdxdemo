@@ -1,0 +1,87 @@
+
+input1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tubiao3
+  rotate: false
+  xy: 2, 2
+  size: 384, 864
+  orig: 384, 864
+  offset: 0, 0
+  index: -1
+tubiao2
+  rotate: false
+  xy: 388, 2
+  size: 384, 864
+  orig: 384, 864
+  offset: 0, 0
+  index: -1
+ff24
+  rotate: false
+  xy: 2, 868
+  size: 216, 128
+  orig: 216, 128
+  offset: 0, 0
+  index: -1
+enf
+  rotate: false
+  xy: 220, 868
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+wolf
+  rotate: false
+  xy: 220, 943
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+cow
+  rotate: false
+  xy: 285, 868
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+blue-eagle
+  rotate: false
+  xy: 285, 920
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+snake
+  rotate: false
+  xy: 285, 967
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+
+input2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tubiao1
+  rotate: false
+  xy: 2, 2
+  size: 384, 864
+  orig: 384, 864
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 388, 2
+  size: 436, 519
+  orig: 436, 519
+  offset: 0, 0
+  index: -1
+201201191832571055
+  rotate: false
+  xy: 388, 523
+  size: 288, 256
+  orig: 288, 256
+  offset: 0, 0
+  index: -1
