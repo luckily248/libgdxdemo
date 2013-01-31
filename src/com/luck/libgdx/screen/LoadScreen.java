@@ -14,14 +14,7 @@ public class LoadScreen implements Screen {
 	public LoadScreen(MainGame game) {
 		this.game = game;
 		until = new MainUntil();
-
-		new Thread(new Runnable() {
-
-			public void run() {
-				until.load();
-
-			}
-		}).start();
+		until.load();
 
 	}
 
